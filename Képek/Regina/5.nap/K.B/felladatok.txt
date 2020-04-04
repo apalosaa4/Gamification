@@ -1,0 +1,2 @@
+kész: hidratáció -e
+nincs kész: -sz, -nsz
