@@ -1,0 +1,2 @@
+kész: B.Á -e, jegyzet -nsz
+nincs kész: könyv -sz
