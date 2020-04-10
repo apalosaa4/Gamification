@@ -1,0 +1,2 @@
+kész: -e, -nsz
+nincs kész: -sz
