@@ -1,0 +1,3 @@
+kész:   Gitár -sz
+	Edzés -nsz 
+nincs kész: víz -e
